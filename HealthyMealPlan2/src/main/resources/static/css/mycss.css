@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+body{
+
+
+}
+  .primary-background{
+      background: #009688!important;
+  }
+  
+  
+  .new-background{
+       background: #000000!important; 
+}
+ .button-background{
+       background: #28283e!important; 
+}
+  .show-background{
+       background: #2A2A89!important; 
+}
+
+  .header-background{
+      background: #f48fb1!important;
+  }
+  
+ .cancel{
+ 	display:block !important;
+ }
+ 
+ button:focus { outline: none; }
+ 
+ 
+ .cat_circle {
+
+   width:50px;
+     height:50px;
+     object-fit:cover;
+     border-radius:50%;
+}
+
